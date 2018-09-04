@@ -1,3 +1,4 @@
 module.exports = {
-    mongoURI: 'mongodb://localhost:27017/test'
+    mongoURI: 'mongodb://localhost:27017/test',
+    secretOrKey: 'secretasofnow'
 }
